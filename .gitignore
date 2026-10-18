@@ -1,0 +1,27 @@
+
+# Gradle e arquivos gerados
+.gradle/
+build/
+**/build/
+.kotlin/
+
+# Configurações locais
+local.properties
+.idea/
+*.iml
+
+# Arquivos nativos gerados
+.externalNativeBuild/
+.cxx/
+
+# Pacotes compilados
+*.apk
+*.aab
+
+# Chaves e arquivos de assinatura
+*.jks
+*.keystore
+
+# Configuração local do Firebase
+google-services.json
+
